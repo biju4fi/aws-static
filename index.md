@@ -1,4 +1,1 @@
----
-title: Welcome to AWS Static Web Page
----
-
+title: Welcome to Malolakunnummal blog
